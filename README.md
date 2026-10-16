@@ -26,3 +26,4 @@ Most of my work lives in private company repos, so there isn't much to browse he
 **Stack:** TypeScript · Python · SQL · C/C++ · React · Next.js · Node.js · FastAPI · PostgreSQL · Playwright · Docker · GCP
 
 📫 [LinkedIn](https://linkedin.com/in/allenwu777) · [Website](https://allenwu-ruddy.vercel.app) · allenwu.career@gmail.com
+
